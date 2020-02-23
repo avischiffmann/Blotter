@@ -1,0 +1,8 @@
+.basicContainer{
+  background-color: #3D9970;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+}
